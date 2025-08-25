@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#00b4d8;">Khang</span></h1>
-<h3 align="center">🚀 Aspiring Engineer | Embedded Systems Enthusiast | C++ Lover</h3>
+<h3 align="center">🚀 Future Engineer | Embedded Systems Enthusiast | C++ Lover</h3>
 
 ---
 
