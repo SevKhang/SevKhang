@@ -4,6 +4,7 @@
 ---
 
 ## 🎨 About Me
+- ✨ <a href="https://github.com/SevKan10">Main account </a>
 - 🎯 **Currently focused on**: Python · Embedded Systems · Face Recognition  
 - 🎓 **Goal**: Become a top-tier engineer & join **Robocon**  
 - 📫 **Contact**: [📧 Email](mailto:khangkhuu10727@gmail.com)  
