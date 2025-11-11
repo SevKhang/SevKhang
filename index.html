@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bambu Lab A1 G-Code Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bambu Lab A1 G-Code Converter</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to the Bambu Lab A1 G-Code Converter</h2>
+            <p>This application converts your G-Code files to be compatible with the Bambu Lab A1 printer.</p>
+        </section>
+        <form id="gcode-form">
+            <label for="gcode-input">Upload your G-Code file:</label>
+            <input type="file" id="gcode-input" name="gcode-input" accept=".gcode">
+            <button type="submit">Convert</button>
+        </form>
+        <section id="converter-output" style="display: none;">
+            <h2>Converted G-Code</h2>
+            <textarea id="converted-gcode" rows="10" cols="30"></textarea>
+            <button id="download-button">Download Converted G-Code</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Bambu Lab. All rights reserved.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
